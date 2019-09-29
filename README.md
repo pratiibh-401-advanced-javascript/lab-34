@@ -2,7 +2,7 @@
 
 # Login Context
 
-### Authors: Pratiibh Bassi
+### Author: Pratiibh Bassi
 
 ### Using Login Context, “protect” the To Do application by restricting access to the various application features based on the users’ login status and capabilities.
 
@@ -11,7 +11,7 @@
 
 
 ### Main Topic
-Role based authorization
+* Role based authorization
 
 What problems do we need to solve for?
 
